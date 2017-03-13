@@ -1,4 +1,0 @@
-<!DOCTYPE html>
-<html>
-<h1> First project</h1>
-</html>
